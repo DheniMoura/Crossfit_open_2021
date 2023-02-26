@@ -1,7 +1,5 @@
 <h1>Crossfit Games 2021 - Análise dos dados</h1>
 
-<img src="/file/crossfit-open-2021.png" alt="">
-
 <h2>O que é Crossfit?</h2>
 <p>
 Criado no início dos anos 2000, o CrossFit é uma modalidade de treino que atrai muita gente, principalmente por ser muito dinâmico e trazer diversos benefícios aos praticantes. 
