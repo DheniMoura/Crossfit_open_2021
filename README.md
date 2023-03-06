@@ -14,17 +14,18 @@ Por ser intensa, atividade proporciona um grande gasto calórico, o que contribu
 <p>O “Nobull Crossfit Games” é o principal campeonato de Crossfit no mundo realizado uma vez por ano desde 2007 pela Crossfit Inc. sendo o único mundial oficial da marca. E o open é uma competição online da CrossFit. É o primeiro passo para ir ao jogos e quem sabe ser coroado “Fittest Man” ou “Fittest Woman” do mundo. É possível ler mais <a href="https://blog.kvrastore.com.br/crossfit/crossfit-games/" target="_blank">aqui</a> e <a href="https://www.hugocross.com.br/crossfit/2017/01/25/o-que-o-open/" target="_blank">aqui</a>.</p>
 
 <h2>O que estamos analisando?</h2>
-<p>O Crossfit <a href="https://games.crossfit.com/workouts/open/2021" target="_blank">Open de 2021</a> teve cerca de <strong>XXX</strong> participantes no mundo todo, desde pessoas iniciantes no esporte até pessoas que já estiveram entre as dez pessoas "mais fitness" do mundo.</p>
-<p>Aqui iremos analisar a distribuição dos participantes ao redor do mundo, entre outras revelações feitas a partir dos dados disponíveis.</p>
+<p>O Crossfit <a href="https://games.crossfit.com/workouts/open/2021" target="_blank">Open de 2021</a> teve cerca de <strong>137.000</strong> participantes no mundo todo, desde pessoas iniciantes no esporte até atletas profissionais que já estiveram entre as dez pessoas "mais fitness" do mundo.</p>
+<!-- <p>Aqui iremos analisar a distribuição dos participantes ao redor do mundo, entre outras revelações feitas a partir dos dados disponíveis.</p> -->
 
 <h3>Qual a origem dos dados?</h3>
 <p>Os dados foram coletados dos datasets disponíveis no Kaggle <a href="https://www.kaggle.com/datasets/branchmanager/2021-mens-crossfit-open-results-cleaned" target="_blank">nesse link</a> e <a href="https://www.kaggle.com/datasets/branchmanager/2021-womens-crossfit-open-results-uncleaned" target="_blank">nesse link</a>.</p>
 
-<h2>Como occoreu a execução dessa análise?</h2>
-<p>Primeiramente foi necessário fazer uma limpeza dos dados, descartanto toda informação que não fosse relevante para a análise, bem como informações que não pudessem ser utilizadas.</p>
-<p>Posteriormente optou-se por uma análise exploratória que resultou no seguinte <a href="inserir link do dashboard" target="_blank"> dashboard</a> **inserir imagem do dashboard?**.
-</p>
+<h2>Como promover a análise dos dados?</h2>
+<p>Primeiramente é necessário realizar uma limpeza dos dados, descartanto toda informação que não seja relevante para a análise, bem como informações que não possam ser utilizadas.</p>
+<!-- <p>Posteriormente optou-se por uma análise exploratória que resultou no seguinte <a href="inserir link do dashboard" target="_blank"> dashboard</a> **inserir imagem do dashboard?**.
+</p> -->
 
+<!-- 
 <h3>Perguntas respondidas: </h3>
 <p>
     <ul>
@@ -35,3 +36,5 @@ Por ser intensa, atividade proporciona um grande gasto calórico, o que contribu
         <li>Qual a distribuição dos pontos de acordo com a idade?</li>
     </ul>
 </p>
+ -->
+
