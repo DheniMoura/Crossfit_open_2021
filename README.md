@@ -22,8 +22,13 @@ Por ser intensa, atividade proporciona um grande gasto calórico, o que contribu
 
 <h2>Como promover a análise dos dados?</h2>
 <p>Primeiramente é necessário realizar uma limpeza dos dados, descartanto toda informação que não seja relevante para a análise, bem como informações que não possam ser utilizadas.</p>
-<!-- <p>Posteriormente optou-se por uma análise exploratória que resultou no seguinte <a href="inserir link do dashboard" target="_blank"> dashboard</a> **inserir imagem do dashboard?**.
-</p> -->
+<p>A limpeza de dados é uma etapa fundamental em qualquer projeto de análise de dados, e a biblioteca Pandas é uma das ferramentas mais utilizadas para essa tarefa em Python. Com ela, é possível realizar desde operações básicas de limpeza até transformações mais complexas nos dados, permitindo que sejam utilizados de forma mais eficiente em análises posteriores.</p>
+<p>Passos sugeridos para limpeza de dados:
+- Importar os dados para o ambiente de programação, utilizando a biblioteca Pandas;
+- Verificar a integridade dos dados, verificando missings (valores faltantes), dados duplicados ou dados inconsistentes;
+- Tratar missings, removendo-os ou preenchendo-os conforme necessário;
+- Tratar dados inconsistentes, removendo-os ou tratando conforme for conveniente;
+- Verificar a qualidade dos dados após a limpeza, garantindo que os dados estão coerentes e corretos para serem analisados.</p>
 
 <!-- 
 <h3>Perguntas respondidas: </h3>
