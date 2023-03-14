@@ -1,4 +1,4 @@
-<h1>Crossfit Games 2021 - Análise dos dados</h1>
+<h1>Crossfit Games - Open 2021</h1>
 
 <img src="/file/crossfit-open-2021.png" alt="">
 
@@ -21,25 +21,29 @@ Por ser intensa, atividade proporciona um grande gasto calórico, o que contribu
 <p>Os dados foram coletados dos datasets disponíveis no Kaggle <a href="https://www.kaggle.com/datasets/branchmanager/2021-mens-crossfit-open-results-cleaned" target="_blank">nesse link</a> e <a href="https://www.kaggle.com/datasets/branchmanager/2021-womens-crossfit-open-results-uncleaned" target="_blank">nesse link</a>.</p>
 
 <h2>Como promover a análise dos dados?</h2>
-<p>Primeiramente é necessário realizar uma limpeza dos dados, descartanto toda informação que não seja relevante para a análise, bem como informações que não possam ser utilizadas.</p>
-<p>A limpeza de dados é uma etapa fundamental em qualquer projeto de análise de dados, e a biblioteca Pandas é uma das ferramentas mais utilizadas para essa tarefa em Python. Com ela, é possível realizar desde operações básicas de limpeza até transformações mais complexas nos dados, permitindo que sejam utilizados de forma mais eficiente em análises posteriores.</p>
+<p>Primeiramente é necessário realizar uma <strong>limpeza dos dados</strong>, descartanto toda informação que não seja relevante para a análise, bem como informações que não possam ser utilizadas.</p>
+<p>A <a href="https://github.com/DheniMoura/Crossfit_open_2021/tree/master/Limpeza_de_dados" target="_blank">Limpeza dos Dados</a> é uma etapa fundamental em qualquer projeto de análise de dados, e a biblioteca Pandas é uma das ferramentas mais utilizadas para essa tarefa em Python. Com ela, é possível realizar desde operações básicas de limpeza até transformações mais complexas nos dados, permitindo que sejam utilizados de forma mais eficiente em análises posteriores.</p>
 <p>Passos sugeridos para limpeza de dados:
-- Importar os dados para o ambiente de programação, utilizando a biblioteca Pandas;
-- Verificar a integridade dos dados, verificando missings (valores faltantes), dados duplicados ou dados inconsistentes;
-- Tratar missings, removendo-os ou preenchendo-os conforme necessário;
-- Tratar dados inconsistentes, removendo-os ou tratando conforme for conveniente;
-- Verificar a qualidade dos dados após a limpeza, garantindo que os dados estão coerentes e corretos para serem analisados.</p>
+<ul>- Importar os dados para o ambiente de programação, utilizando a biblioteca Pandas;</ul>
+<ul>- Verificar a integridade dos dados, verificando missings (valores faltantes), dados duplicados ou dados inconsistentes;</ul>
+<ul>- Tratar missings, removendo-os ou preenchendo-os conforme necessário;</ul>
+<ul>- Tratar dados inconsistentes, removendo-os ou tratando conforme for conveniente;</ul>
+<ul>- Verificar a qualidade dos dados após a limpeza, garantindo que os dados estão coerentes e corretos para serem analisados.
+</ul></p>
+<br>
+<br><br><br>
 
-<!-- 
-<h3>Perguntas respondidas: </h3>
+<h2>O que podemos analisar com esses dados?</h2>
+<h3>Perguntas que podem ser respondidas: </h3>
 <p>
     <ul>
         <li>Quais são os países com os maiores números de participantes? (Feminino, masculino e total)</li>
-        <li>Qual a distribuição de participantes por continente?</li>
-        <li>Qual a distribuição de afiliados por continente ou por país?</li>
+        <li>Qual a distribuição de participantes por continente de origem?</li>
+        <li>Qual a distribuição de afiliados por continente ou por país de origem?</li>
         <li>Qual a distribuição de participantes de acordo com a idade?</li>
-        <li>Qual a distribuição dos pontos de acordo com a idade?</li>
+        <li>Qual a distribuição dos pontos de acordo com a idade dos atletas?</li>
+        <li>Qual a distribuição do peso levantado de acordo com a idade dos atletas?</li>
     </ul>
 </p>
- -->
+
 
